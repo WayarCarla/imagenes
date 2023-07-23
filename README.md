@@ -1,3 +1,6 @@
+![ispc](https://github.com/WayarCarla/imagenes/blob/main/ispc.png)
+
+
 + # TECNICATURA SUPERIOR EN INNOVACIÓN CON TECNOLOGÍAS 4.0 
 
 
